@@ -1,5 +1,6 @@
-This is a sample text file. It contains multiple sentences!  
-We'll use it to test our text preprocessing script.  
+This is a sample text file for NLTK processing. It contains multiple sentences!
+We'll use it to test our text preprocessing script with Apple and Google.
+Dr. Smith visited Cupertino, California last Tuesday.
 There are some stopwords, like "the" and "a," that we want to remove.
 And, we have some punctuations, like . , ! ? ; : which needs to be taken care.
-There are also words Like Mr. Karim, Dr. Karim, and Mrs. Karim.
+Running, ran, runs should ideally map to run. Better is good.
