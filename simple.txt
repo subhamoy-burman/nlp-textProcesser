@@ -1,6 +1,4 @@
-This is a sample text file for NLTK processing. It contains multiple sentences!
-We'll use it to test our text preprocessing script with Apple and Google.
-Dr. Smith visited Cupertino, California last Tuesday.
-There are some stopwords, like "the" and "a," that we want to remove.
-And, we have some punctuations, like . , ! ? ; : which needs to be taken care.
-Running, ran, runs should ideally map to run. Better is good.
+Apple Inc. announced its next product launch in Cupertino, California yesterday.
+Tim Cook, the CEO of Apple, spoke at the event. Google also sent representatives.
+The event occurred on September 12th, 2023, costing over $1 Million.
+Dr. Smith from Stanford University analyzed the market reaction.
